@@ -1,6 +1,7 @@
 # Procesador de Encuestas
 
 Proyecto académico en Python para generar y analizar datos de encuestas de hábitos.
+Utilizado en Ciencia de datos
 
 ## ¿Qué hace?
 
